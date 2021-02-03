@@ -122,5 +122,5 @@ You are required to submit the following for review:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 Developer Notes:
-2021.02.02 Cleaned up the code for easier reading; changed the name of the title from "website" to "Horiseon". 
+2021.02.02 Cleaned up the code for easier reading; changed the name of the title from "website" to "Horiseon"; added alt attributes to images;
 
