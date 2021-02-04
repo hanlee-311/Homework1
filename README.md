@@ -31,15 +31,15 @@ SO THAT our own site is optimized for search engines
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
-THEN I find semantic HTML elements
+✅THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+✅THEN I find that the elements follow a logical structure independent of styling and positioning
 WHEN I view the image elements
-THEN I find accessible alt attributes
+✅THEN I find accessible alt attributes
 WHEN I view the heading attributes
-THEN they fall in sequential order
-✅WHEN I view the title element
-THEN I find a concise, descriptive title
+✅THEN they fall in sequential order
+WHEN I view the title element
+✅THEN I find a concise, descriptive title
 ```
 
 ## Mock-Up
@@ -80,31 +80,31 @@ This homework is graded based on the following criteria:
 
   * ✅Application's links all function correctly.
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+  * ✅Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 
-  * Application's CSS file is properly commented.
+  * ✅Application's CSS file is properly commented.
 
 ### Deployment: 32%
 
 * ✅Application deployed at live URL using GitHub Pages.
 
-* Application loads with no errors.
+* ✅Application loads with no errors.
 
-* Application GitHub URL submitted.
+* ✅Application GitHub URL submitted.
 
-* GitHub repository that contains application code.
+* ✅GitHub repository that contains application code.
 
 ### Application Quality: 15%
 
-* Application resembles (at least 90%) screenshots provided in the homework instructions.
+* ✅Application resembles (at least 90%) screenshots provided in the homework instructions.
 
 ### Repository Quality: 13%
 
 * Repository has a unique name.
 
-* Repository follows best practices for file structure and naming conventions.
+* ✅Repository follows best practices for file structure and naming conventions.
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* ✅Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
 
 * ✅Repository contains multiple descriptive commit messages.
 
@@ -126,4 +126,4 @@ Developer Notes:
 
 2021.02.03 Added class="search-engine-optimization" under div class="content", which fixed the linking problem with "Search Engine Optimization"; 
 
-2021.02.04 Changed div to semantic elements, such as main, aside, and footer; consolidated css code for aside; added alt attributes to aside images; renamed the title to be more descriptive; added descriptive comments in css to main; consolidated css code for main and renamed class and ID to main-content; reorganized css into a semantic order; added descriptive comments in css to remaining css; changed ID names to repair links to location on web page; renamed class hero to company-picture;
+2021.02.04 Changed div to semantic elements, such as main, aside, and footer; consolidated css code for aside; added alt attributes to aside images; renamed the title to be more descriptive; added descriptive comments in css to main; consolidated css code for main and renamed class and ID to main-content; reorganized css into a semantic order; added descriptive comments in css to remaining css; changed ID names to repair links to location on web page; renamed class hero to company-picture; changed divs in content and benefits to sections; changed footer h2 to h4;
