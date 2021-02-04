@@ -126,4 +126,4 @@ Developer Notes:
 
 2021.02.03 Added class="search-engine-optimization" under div class="content", which fixed the linking problem with "Search Engine Optimization"; 
 
-2021.02.04 Changed div to semantic elements, such as main, aside, and footer; consolidated css code for aside; added alt attributes to aside images; renamed the title to be more descriptive; added descriptive comments in css to main; consolidated css code for main and renamed class and ID to main-content; reorganized css into a semantic order; added descriptive comments in css to remaining css; changed ID names to repair links to location on web page; 
+2021.02.04 Changed div to semantic elements, such as main, aside, and footer; consolidated css code for aside; added alt attributes to aside images; renamed the title to be more descriptive; added descriptive comments in css to main; consolidated css code for main and renamed class and ID to main-content; reorganized css into a semantic order; added descriptive comments in css to remaining css; changed ID names to repair links to location on web page; renamed class hero to company-picture;

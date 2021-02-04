@@ -53,7 +53,7 @@ p {
 }
 
 /*Company-picture Styling*/
-.hero {
+.company-picture {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -125,7 +125,7 @@ p {
     max-width: 150px;
 }
 
-/* Add note here*/
+/* Footer Styling*/
 .footer {
     padding: 30px;
     clear: both;
