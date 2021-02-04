@@ -125,3 +125,5 @@ Developer Notes:
 2021.02.02 Cleaned up the code for easier reading; changed the name of the title from "website" to "Horiseon"; added alt attributes to images;
 
 2021.02.03 Added class="search-engine-optimization" under div class="content", which fixed the linking problem with "Search Engine Optimization"; 
+
+2021.02.04 Changed div to semantic elements, such as main, aside, and footer; consolidated css code for aside; 
