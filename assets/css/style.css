@@ -52,8 +52,8 @@ p {
     margin-left: 25px;
 }
 
-/*Company-picture Styling*/
-.company-picture {
+/*Hero Styling*/
+.hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -91,14 +91,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /* Benefits Aside Styling */
-.benefits {
+.aside-benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
