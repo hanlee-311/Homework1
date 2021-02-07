@@ -3,7 +3,7 @@
 ## Description
 Marketing agency wanted a website that followed accessibility standards and is optimized for search engines. Web development team updated the organization of code, increased accessability, and repaired broken links.
 
-#### Deployed Link: [Horiseon Social Solutions Services]()
+#### Deployed Link: [Horiseon Social Solutions Services](https://hanlee-311.github.io/Horiseon-social-solution-services/)
 
 ### User Story
 
